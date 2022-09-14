@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CodePath-wordleClone</string>
+    <string name="first_guess">First Guess</string>
+    <string name="first_guess_check">First Guess Check</string>
+    <string name="second_guess">Second Guess</string>
+    <string name="second_guess_check">Second Guess Check</string>
+    <string name="third_guess">Third Guess</string>
+    <string name="third_guess_check">Third Guess Check</string>
+    <string name="word">Word</string>
+    <string name="guess">Guess</string>
+</resources>
