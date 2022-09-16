@@ -8,4 +8,7 @@
     <string name="third_guess_check">Third Guess Check</string>
     <string name="word">Word</string>
     <string name="guess">Guess</string>
+    <string name="take_a_guess">Take a guess</string>
+    <string name="output">Output</string>
+    <string name="input">Input</string>
 </resources>
