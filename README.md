@@ -45,6 +45,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+This whole experience was a challange, everything with this was a first for me in Kotlin, but it was enjoyable.
+One the buggest challanges that was a biggest pain point for me was getting the user generated data and comparing
+that to the random word.
+
+Something that I would like to add is error handleing.
 
 ## License
 
